@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+
+
+
 print("Welcome to ticket sales\n")
 
 while True:  # <1>
@@ -12,3 +15,4 @@ while True:  # <1>
 
     quantity = int(raw_quantity)  # could validate via try/except
     print("sending {} ticket(s)".format(quantity))
+

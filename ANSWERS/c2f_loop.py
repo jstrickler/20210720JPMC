@@ -7,4 +7,5 @@ while True:
     celsius = float(celsius)
     fahrenheit = ((9 * celsius) / 5) + 32
     print('{:.1f} C is {:.1f} F\n'.format(celsius, fahrenheit))
+    print(f'{celsius:.1f} C is {fahrenheit:.1f} F\n')
 

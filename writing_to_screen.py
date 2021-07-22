@@ -36,3 +36,5 @@ print(f"{x:,d}")
 e = "Python"
 f = "rocks"
 print(f"{e} {f}!")
+
+#  "......{}....{}.....".format(arg0, arg1)
